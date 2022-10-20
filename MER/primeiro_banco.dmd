@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="primeiro_banco" id="ABC67FC4-DBBE-2B31-7C31-1D03EF90463F" version="3.5">
+<createdBy>lucas.pmpereira</createdBy>
+<createdTime>2022-10-19 22:19:08 UTC</createdTime>
+<ownerDesignName>primeiro_banco</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>ABC67FC4-DBBE-2B31-7C31-1D03EF90463F</designId>
+</OSDM_Design>
